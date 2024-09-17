@@ -1,6 +1,7 @@
 # WORDPRESS CODE SNIPPETS
 
 This repository contains a collection of WordPress code snippets that I frequently use in my development projects. These snippets are designed to solve common challenges, improve workflow, and customize WordPress functionalities without relying on heavy plugins. Whether you're looking to modify theme files, or plugin files, enhance performance, or streamline your WooCommerce store, this collection provides practical and easy-to-implement solutions.
+
 The list is structured into three sections - links to useful resources and articles, code snippets for a wide range of scenarios, themes, and plugins you may encounter in your daily work, and a list of trusted, non-commercial plugins that I recommend using (no page builders or similar bad plugins are listed).
 
 ## Table of Contents
