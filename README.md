@@ -65,15 +65,19 @@ The list is structured into three sections - links on useful resources and artic
 
 ### Admin
 
-- [Disable WordPress Block Editor Fullscreen Mode](https://unmaskwp.com/disable-wordpress-block-editor-fullscreen-mode/)
-- [Remove Welcome Panel in WordPress Dashboard](https://unmaskwp.com/remove-welcome-panel-in-wordpress-dashboard/)
-- [Remove WordPress Logo from Admin Bar](https://unmaskwp.com/remove-wordpress-logo-from-admin-bar/)
-- [How to Change WordPress Login Logo](https://unmaskwp.com/how-to-change-wordpress-login-logo/)
-- [Disable Admin Bar in WordPress](https://unmaskwp.com/disable-admin-bar-in-wordpress/)
-- [Remove Update WordPress Button from Admin Dashboard](https://unmaskwp.com/remove-update-wordpress-button-from-admin-dashboard/)
-- [Hide Admin Bar for Specific User Roles](https://unmaskwp.com/hide-admin-bar-for-specific-user-roles/)
+- [How to Change or Remove ‘Howdy Admin’ in WordPress Admin Bar?](https://unmaskwp.com/snippets/change-howdy-text-wordpress-admin-bar/)
+- [How to Remove Welcome Panel From WordPress Admin Dashboard?](https://unmaskwp.com/snippets/remove-the-welcome-panel-wordpress-admin-dashboard/)
+- [Add Post ID to Posts and Pages Admin Columns in WordPress](https://unmaskwp.com/snippets/add-post-id-to-posts-and-pages-admin-columns-in-wordpress/)
+- [How to Remove the Comments Column from Pages in WordPress Admin?](https://unmaskwp.com/snippets/remove-the-comments-column-from-pages-wordpress-admin/)
+- [How to Disable BuddyPress Admin Menu Bar in WordPress?](https://unmaskwp.com/snippets/disable-buddypress-admin-menu-bar-wordpress/)
+- [How to Disable the Admin Bar For All Users Except Administrators in WordPress?](https://unmaskwp.com/snippets/disable-wordpress-admin-bar-for-all-users-except-administrators/)
+- [How to Disable the Admin Bar in WordPress For All Users?](https://unmaskwp.com/snippets/disable-wordpress-admin-bar/)
 
 ### Admin Bar
+
+- [How to Change or Remove ‘Howdy Admin’ in WordPress Admin Bar?](https://unmaskwp.com/snippets/change-howdy-text-wordpress-admin-bar/)
+- [How to Remove Comments from WordPress Admin Bar?](https://unmaskwp.com/snippets/remove-comments-link-from-wordpress-admin-bar/)
+
 ### Author
 ### BBPress Forums
 ### Block Editor
