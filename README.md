@@ -49,4 +49,60 @@ The list is structured into three sections - links on useful resources and artic
     - [WordPress Search](https://github.com/MayankMajeji/wordpress-code-snippets#wordpress-search)
     - [Yoast SEO](https://github.com/MayankMajeji/wordpress-code-snippets#yoast-seo)
 
+- [Trusted Plugins](https://github.com/MayankMajeji/wordpress-code-snippets#trusted-plugins)
 
+---
+
+## Links
+
+- [Codex](http://codex.wordpress.org/)
+- [Dashicons](https://developer.wordpress.org/resource/dashicons/)
+- [Plugins](https://wordpress.org/plugins/)
+
+---
+
+## Snippets
+
+### Admin
+
+
+
+### Admin Bar
+### Author
+### BBPress Forums
+### Block Editor
+### Breadcrumbs
+### BuddyPress
+### Classic Editor
+### Comments
+### Content Management
+### Dashboard
+### Dashicons
+### Editor
+### Embeds
+### Images
+### Jetpack
+### Media Library
+### Multilingual
+### Optimization
+### Permalinks
+### Post Content
+### Post Excerpt
+### Post Revisions
+### REST API
+### RSS Feeds
+### Security
+### SEO
+### TablePress
+### Trash
+### Twitter
+### Updates
+### User Experience
+### User Profile
+### Web Accessibility
+### Widgets
+### WooCommerce
+### WordPress Emails
+### WordPress Login
+### WordPress Search
+### Yoast SEO
