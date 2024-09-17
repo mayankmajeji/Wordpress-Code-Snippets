@@ -65,7 +65,13 @@ The list is structured into three sections - links on useful resources and artic
 
 ### Admin
 
-
+- [Disable WordPress Block Editor Fullscreen Mode](https://unmaskwp.com/disable-wordpress-block-editor-fullscreen-mode/)
+- [Remove Welcome Panel in WordPress Dashboard](https://unmaskwp.com/remove-welcome-panel-in-wordpress-dashboard/)
+- [Remove WordPress Logo from Admin Bar](https://unmaskwp.com/remove-wordpress-logo-from-admin-bar/)
+- [How to Change WordPress Login Logo](https://unmaskwp.com/how-to-change-wordpress-login-logo/)
+- [Disable Admin Bar in WordPress](https://unmaskwp.com/disable-admin-bar-in-wordpress/)
+- [Remove Update WordPress Button from Admin Dashboard](https://unmaskwp.com/remove-update-wordpress-button-from-admin-dashboard/)
+- [Hide Admin Bar for Specific User Roles](https://unmaskwp.com/hide-admin-bar-for-specific-user-roles/)
 
 ### Admin Bar
 ### Author
