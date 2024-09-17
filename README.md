@@ -1,7 +1,7 @@
 # WORDPRESS CODE SNIPPETS
 
-This repository contains a collection of WordPress code snippets that I frequently use in my development projects. These snippets are designed to solve common challenges, improve workflow, and customize WordPress functionalities without relying on heavy plugins. Whether you're looking to modify theme files, plugin files, enhance performance, or streamline your WooCommerce store, this collection provides practical and easy-to-implement solutions.
-The list is structured into three sections - links on useful resources and articles, code snippets for a wide range of scenarios, themes, and plugins you may encounter in your daily work and a list of trusted, non-commercial plugins that I recommend using (no page builders or similar bad plugins are listed).
+This repository contains a collection of WordPress code snippets that I frequently use in my development projects. These snippets are designed to solve common challenges, improve workflow, and customize WordPress functionalities without relying on heavy plugins. Whether you're looking to modify theme files, or plugin files, enhance performance, or streamline your WooCommerce store, this collection provides practical and easy-to-implement solutions.
+The list is structured into three sections - links to useful resources and articles, code snippets for a wide range of scenarios, themes, and plugins you may encounter in your daily work, and a list of trusted, non-commercial plugins that I recommend using (no page builders or similar bad plugins are listed).
 
 ## Table of Contents
 
@@ -294,3 +294,13 @@ The list is structured into three sections - links on useful resources and artic
 - [How to Exclude Post Type(s) from Yoast SEO Sitemap?](https://unmaskwp.com/snippets/exclude-post-types-from-yoast-seo-sitemap-wordpress/)
 - [How to Include Empty Taxonomies in Yoast SEO Sitemap.xml?](https://unmaskwp.com/snippets/include-empty-taxonomies-yoast-seo-sitemap-xml/)
 - [How to Remove Yoast SEO Admin Columns?](https://unmaskwp.com/snippets/how-to-remove-yoast-seo-admin-columns/)
+
+---
+
+## Trusted plugins
+
+- [Advanced Custom Fields PRO](https://www.advancedcustomfields.com/pro/)
+- [WP Utility and Performance](https://wordpress.org/plugins/wp-utility-and-performance/)
+- [WP Full Screen Search](https://wordpress.org/plugins/wp-full-screen-search/)
+- [WP Crontrol](https://wordpress.org/plugins/wp-crontrol/)
+- [YOAST SEO](https://wordpress.org/plugins/wordpress-seo/)
