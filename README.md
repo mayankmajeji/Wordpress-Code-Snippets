@@ -274,6 +274,7 @@ The list is structured into three sections - links to useful resources and artic
 - [How to Remove Data Tabs in WooCommerce Single Product Page?](https://unmaskwp.com/snippets/remove-data-tabs-in-woocommerce-single-product-page/)
 - [How to Remove Zero Decimals from WooCommerce Product Price?](https://unmaskwp.com/snippets/remove-zero-decimals-in-woocommerce-product-price/)
 - [How to Limit Product Quantity to 1 For All WooCommerce Products?](https://unmaskwp.com/snippets/limit-product-quantity-for-woocommerce-products/)
+- [How to Disable Repeat Purchase for a WooCommerce Product?](https://unmaskwp.com/snippets/disable-repeat-purchase-for-woocommerce-product/)
 
 ### WordPress Emails
 
