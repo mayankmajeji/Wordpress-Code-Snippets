@@ -147,6 +147,7 @@ The list is structured into three sections - links to useful resources and artic
 ### LearnDash
 
 - [How to Easily Display Course ID in LearnDash Admin Panel?](https://unmaskwp.com/snippets/display-course-id-learndash-admin-panel/)
+- [How to Display Group Name in LearnDash Courses Admin Panel?](https://unmaskwp.com/snippets/display-group-name-learndash-courses-admin-panel/)
 
 ### Media Library
 
