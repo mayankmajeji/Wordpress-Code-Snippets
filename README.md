@@ -144,6 +144,10 @@ The list is structured into three sections - links to useful resources and artic
 
 - [How to Remove Jetpack Unused CSS From WordPress Website?](https://unmaskwp.com/snippets/remove-jetpack-unused-css-from-wordpress/)
 
+### LearnDash
+
+- [How to Easily Display Course ID in LearnDash Admin Panel?](https://unmaskwp.com/snippets/display-course-id-learndash-admin-panel/)
+
 ### Media Library
 
 - [How to Stop WordPress from Compressing JPEG Images?](https://unmaskwp.com/snippets/stop-wordpress-from-compressing-jpeg-images/)
